@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jubril-adeyi
 - 👀 I’m interested in cloud computing 
-- 🌱 I’m currently learning Ansible, kubernetes and docker 
+- 🌱 I’m currently learning kubernetes and docker 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: jbadeyi@gmail.com
 
