@@ -3,7 +3,7 @@ Hi, I’m a Software engineer and Technical Writer, currently learning Cloud/Dev
  <b>Here's a quick summary about me: </b>
  
 - 👀 Fun fact: I'm an AWS Certified Cloud Practitioner 
-- 🌱 I’m currently learning AWS, GCP, Terraform kubernetes, and docker 
+- 🌱 I’m currently learning AWS, GCP, Terraform, kubernetes, and docker 
 - ✔ I'm currently looking for help with collaboration open-source projects, hackatons, internships and entry-level oppurtunities.
 - 💞️ Job interests: System Admin, Cloud Architect, Cloud/DevOps (Intern or Junior level)
 - 📫 How to reach me: jbadeyi@gmail.com
